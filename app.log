@@ -1,0 +1,7 @@
+2025-07-03 06:55:12 - root - DEBUG - This is a debug message
+2025-07-03 06:55:12 - root - INFO - This is an info message
+2025-07-03 06:55:12 - root - WARNING - This is a warning message
+2025-07-03 06:55:12 - root - ERROR - This is an error message
+2025-07-03 06:55:12 - root - CRITICAL - This is a critical message
+2025-07-03 06:55:12 - root - DEBUG - Add function is completed
+2025-07-03 06:55:12 - root - DEBUG - Add function is operating 

@@ -1,0 +1,5 @@
+this is the file that !@ have created for word count 
+now you job is to count the words
+this is another line for fun 
+yet anohter 
+last another
